@@ -1,0 +1,29 @@
+Key Performance Indicators (KPIs) Requirements:
+
+Total Loan Applications:
+
+Calculate the total number of loan applications received within a specified period.
+Monitor Month-to-Date (MTD) loan applications.
+Track Month-over-Month (MoM) changes in loan applications.
+Total Funded Amount:
+
+Assess the total amount of funds disbursed as loans.
+Keep an eye on the MTD total funded amount.
+Analyze MoM changes in the total funded amount.
+Total Amount Received:
+
+Track the total amount received from borrowers to evaluate cash flow and loan repayments.
+Monitor the MTD total amount received.
+Observe MoM changes in this metric.
+Average Interest Rate:
+
+Calculate the average interest rate across all loans.
+Track the average interest rate MTD.
+Monitor MoM variations in interest rates to gain insights into the lending portfolio's cost.
+Average Debt-to-Income Ratio (DTI):
+
+Evaluate the average DTI for all borrowers to assess their financial health.
+Compute the average DTI MTD.
+Track MoM fluctuations in the average DTI.
+
+
